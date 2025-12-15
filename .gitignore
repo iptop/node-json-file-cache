@@ -1,0 +1,7 @@
+node_modules/
+test/.test-cache/
+*.log
+.DS_Store
+coverage/
+.idea
+.vscode
