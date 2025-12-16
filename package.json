@@ -1,6 +1,6 @@
 {
   "name": "node-json-file-cache",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "一个轻量级的 Node.js 缓存库，基于本地 JSON 文件实现 key-value 缓存存储",
   "main": "src/index.js",
   "types": "src/index.d.ts",
@@ -16,6 +16,11 @@
   ],
   "author": "",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/iptop/node-json-file-cache"
+  },
+  "homepage": "https://github.com/iptop/node-json-file-cache#readme",
   "devDependencies": {
     "jest": "^29.7.0"
   },

@@ -2,7 +2,7 @@
 
 A lightweight Node.js caching library that implements key-value cache storage based on local JSON files, with an API style similar to the browser's localStorage.
 
-[中文文档](./readme-zh-cn.md)
+[中文文档](https://github.com/iptop/node-json-file-cache/blob/main/readme-zh-cn.md)
 
 > ⚠️ **Important Notice**: This is a simple single-process caching system that **does not support multi-process, multi-threaded, or cluster environments**. It is only suitable for command-line tools, development environments, single-machine scripts, and other single-process scenarios. For concurrent support, please use professional solutions like Redis or SQLite.
 
