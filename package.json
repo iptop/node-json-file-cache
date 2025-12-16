@@ -22,8 +22,6 @@
   "files": [
     "src/index.js",
     "src/index.d.ts",
-    "readme.md",
-    "ARCHITECTURE.md",
-    "FAQ.md"
+    "readme.md"
   ]
 }
